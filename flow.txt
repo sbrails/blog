@@ -1,0 +1,3 @@
+remove blog.*
+create client / server / lib
+add pkg twbs:bootstrap
